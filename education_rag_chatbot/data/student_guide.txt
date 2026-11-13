@@ -1,0 +1,33 @@
+EDUASSIST STUDENT KNOWLEDGE BASE
+Sample educational guidance document for demonstrating Retrieval-Augmented Generation.
+This is general learning guidance, not an official policy of any college or university.
+
+1. STUDY PLANNING
+A useful study plan starts by listing subjects, topics, and assessment dates. Break large topics into smaller tasks. Set a realistic daily target and reserve time for revision. Use active recall by closing your notes and explaining a concept from memory. Use spaced repetition by revisiting material over increasing intervals.
+
+2. EXAM PREPARATION
+Read the syllabus and identify the topics with the highest importance in your course. Practise questions under timed conditions. After each practice test, review mistakes and write down why the correct answer is correct. Prepare concise revision notes, but do not rely only on rereading or highlighting.
+
+3. NOTE-TAKING
+Use headings, short bullet points, definitions, examples, and diagrams. In technical subjects, include a small worked example. After class, review and clarify notes as soon as practical. Keep notes in a consistent structure so topics are easy to find.
+
+4. SCHOLARSHIP APPLICATION PREPARATION
+Scholarship requirements differ by scheme and institution. Students should check the official scholarship portal or institution notice for current eligibility, deadlines, income limits, required documents, and application steps. Commonly requested documents may include identity proof, academic records, income certificate, bank details, and photographs, but the exact list varies. Never assume a document list or deadline without checking the official notice.
+
+5. ADMISSION AND COURSE INFORMATION
+Admission eligibility, fees, required documents, and application dates vary by institution and academic year. Always verify details on the official college or university website or admissions office. This sample knowledge base does not provide institution-specific admission rules or fee amounts.
+
+6. TIME MANAGEMENT
+Prioritise tasks by deadline and importance. Try focused study sessions of around 25 to 50 minutes followed by a short break. Keep a weekly review to check completed work and adjust the next week's plan. Avoid planning every minute; leave buffer time for unexpected tasks.
+
+7. ACADEMIC SUPPORT
+If a student does not understand a topic, they can consult course notes, recommended textbooks, faculty office hours, peer study groups, or official learning resources. When asking for help, share the subject, topic, what has already been tried, and the exact point of confusion.
+
+8. ACADEMIC INTEGRITY
+Submit original work and acknowledge sources. Do not copy another student's assignment or present generated content as personal research. Follow the institution's rules for collaboration, citations, and permitted use of AI tools. When unsure, ask the instructor.
+
+9. WELLBEING
+Maintain a reasonable sleep routine, take breaks, eat regularly, and seek support when stress affects daily functioning. Students can contact their institution's counselling or student-support service for help. In an emergency, contact local emergency services or a trusted person.
+
+10. HOW THIS CHATBOT WORKS
+The chatbot retrieves relevant passages from documents stored in the data folder, then sends those passages with the question to a language model. If the documents do not contain the answer, the chatbot should say that the information was not found rather than inventing a policy.
